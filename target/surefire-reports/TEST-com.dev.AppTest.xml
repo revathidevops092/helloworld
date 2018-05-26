@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.dev.AppTest" time="0.615" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.dev.AppTest" time="0.108" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="gnome"/>
     <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
@@ -17,7 +17,7 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="/usr/lib/java/jdk1.8.0_171/jre/lib/amd64"/>
-    <property name="sun.java.command" value="/home/revathi/devtest/target/surefire/surefirebooter5594550709377054547.jar /home/revathi/devtest/target/surefire 2018-05-24T12-14-28_013-jvmRun1 surefire391284566126989516tmp surefire_01722680833377178794tmp"/>
+    <property name="sun.java.command" value="/home/revathi/devtest/target/surefire/surefirebooter6935641701254108171.jar /home/revathi/devtest/target/surefire 2018-05-26T02-36-53_478-jvmRun1 surefire6216220165926671615tmp surefire_02892369542055491625tmp"/>
     <property name="surefire.test.class.path" value="/home/revathi/devtest/target/test-classes:/home/revathi/devtest/target/classes:/home/revathi/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/revathi/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="/home/revathi"/>
@@ -30,7 +30,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/home/revathi/devtest/target/surefire/surefirebooter5594550709377054547.jar"/>
+    <property name="surefire.real.class.path" value="/home/revathi/devtest/target/surefire/surefirebooter6935641701254108171.jar"/>
     <property name="sun.boot.class.path" value="/usr/lib/java/jdk1.8.0_171/jre/lib/resources.jar:/usr/lib/java/jdk1.8.0_171/jre/lib/rt.jar:/usr/lib/java/jdk1.8.0_171/jre/lib/sunrsasign.jar:/usr/lib/java/jdk1.8.0_171/jre/lib/jsse.jar:/usr/lib/java/jdk1.8.0_171/jre/lib/jce.jar:/usr/lib/java/jdk1.8.0_171/jre/lib/charsets.jar:/usr/lib/java/jdk1.8.0_171/jre/lib/jfr.jar:/usr/lib/java/jdk1.8.0_171/jre/classes"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="1.8.0_171-b11"/>
