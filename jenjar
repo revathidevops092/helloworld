@@ -1,0 +1,269 @@
+    1  ls
+    2  cd
+    3  pwd
+    4  ls
+    5  sudo apt-get update
+    6  sudo su
+    7  sudo su
+    8  sudo apt-get update
+    9  ls
+   10  cd Downloads
+   11  ls
+   12  sudo -zxvf jdk-8u171-linux-x64.tar.gz
+   13  sudo tar -zxvf jdk-8u171-linux-x64.tar.gz
+   14  ls
+   15  cd ..
+   16  cd usr
+   17  ls
+   18  cd usr/lib
+   19  cd /usr
+   20  ls
+   21  cd ..
+   22  ls
+   23  cd /usr/lib
+   24  ls
+   25  sudo mkdir java
+   26  ls
+   27  cd /java
+   28  ls
+   29  cd java
+   30  ls
+   31  cd downloads
+   32  cd Downloads
+   33  ls
+   34  cd ~/Downloads/
+   35  ls
+   36  sudo mv jdk1.8.0_171/ /usr/lib/java
+   37  cd /usr/lib/java
+   38  ls
+   39  cd jdk1.8.0_171/
+   40  ls
+   41  cd bin/
+   42  ls
+   43  cd ..
+   44  ls
+   45  sudo update-alternatives --install "/usr/bin/java" "java" "/usr/lib/java/jdk1.8.0_171/bin/java" 1
+   46  sudo update-alternatives --install "/usr/bin/javac" "javac" "/usr/lib/java/jdk1.8.0_171/bin/javac" 1
+   47  sudo update-alternatives --install "/usr/bin/javaws" "javaws" "/usr/lib/java/jdk1.8.0_171/bin/javaws" 1
+   48  cd\
+   49  ls
+   50  cd ..
+   51  sudo getedit ~/.bashrc
+   52  sudo geedit ~/.bashrc
+   53  sudo getedit ~/.bashrc
+   54  sudo gedit ~/.bashrc
+   55  cls
+   56  cd Downloads/
+   57  ls
+   58  sudo tar -zxvf apache-tomcat-7.0.88.tar.gz 
+   59  ls
+   60  cd apache-tomcat-7.0.88/
+   61  ls
+   62  cd bin/
+   63  systemctl stop tomcat8
+   64  ls
+   65  sudo startup.sh
+   66  ./startup.sh
+   67  sudo ./startup.sh
+   68  ls
+   69  sudo ./shutdown.sh
+   70  cd ..
+   71  ls
+   72  cp apache-tomcat-7.0.88 ./apache-tomcat-7.0.88
+   73  cp apache-tomcat-7.0.88 ./"apache-tomcat-7.0.88"
+   74  cp jenkins.war ./"apache-tomcat-7.0.88"
+   75  sudo cp jenkins.war ./apache-tomcat-7.0.88
+   76  cd apache-tomcat-7.0.88/
+   77  ls
+   78  cp jenkins.war ./webapps/
+   79  sudo cp jenkins.war ./webapps/
+   80  cd webapps/
+   81  ls
+   82  cd ..
+   83  cd bin/
+   84  ls
+   85  sudo ./startup.sh 
+   86  cd ..
+   87  which git
+   88  git
+   89  sudo apt-get install git
+   90  which git
+   91  cat /root/.jenkins/secrets/initialAdminPassword
+   92  sudo su
+   93  sudo gedit ~/.bashrc
+   94  ls
+   95  cd
+   96  pwd
+   97  cd Downloads
+   98  ls
+   99  cd
+  100  ls
+  101  which maven
+  102  ls
+  103  maven -version
+  104  maven --version
+  105  which java
+  106  which tomcat
+  107  which git
+  108  which tomcat
+  109  mvn install
+  110  cls
+  111  clear
+  112  cd downloads
+  113  cd Downloads
+  114  ls
+  115  cd apache-tomcat-7.0.88/
+  116  ls
+  117  cd bin
+  118  ls
+  119  sudo ./startup.sh
+  120  systemctl stop tomcat8
+  121  ./startup.sh
+  122  sudo ./startup.sh
+  123  cd
+  124  sudo su
+  125  pwd
+  126  hostname
+  127  sudo hostname
+  128  ls
+  129  cd ricky.txt
+  130  cd ricky.tct
+  131  cd Donloads
+  132  cd Downloads
+  133  ls
+  134  cd
+  135  cls
+  136  clear
+  137  mvn archetype:generate -Dgroupid=
+  138  mvn install
+  139  mvn archetype:generate -DgroupId=com.silpa -DartifactId=silpa -Dversion=1.0-SNAPSHOT -DinteractiveMode=false -DarchetypeArtifactId=maven-arcgetype webapp
+  140  mvn archetype:generate -DgroupId=com.silpa -DartifactId=silpa -Dversion=1.0-SNAPSHOT -DinteractiveMode=false -DarchetypeArtifactId=maven-archetype webapp
+  141  cls
+  142  clear
+  143  systemctl tomcat8
+  144  pwd
+  145  ls
+  146  ll
+  147  ls -i
+  148  clear
+  149  pwd
+  150  ls
+  151  cd Downloads
+  152  ls
+  153  cd apache-tomcat-7.0.88/
+  154  ls
+  155  cd bin
+  156  ls
+  157  sudo startup.sh
+  158  ./startup.sh
+  159  sudo ./startup.sh
+  160  vim bashrc
+  161  ls
+  162  systemctl tomcat8
+  163  cd
+  164  systemctl tomcat8
+  165  sudo ./startup.sh
+  166  cd Downloads
+  167  ls
+  168  cd apache-tomcat-7.0.88/
+  169  ls
+  170  cd bin
+  171  ls
+  172  sudo ./strtup.sh
+  173  sudo ./startup.sh
+  174  pwd
+  175  ls
+  176  cd
+  177  pwd
+  178  cd 
+  179  ls
+  180  cd bin
+  181  cd apache-tomcat-7.0.88/
+  182  clear
+  183  pwd
+  184  ls
+  185  cd Dow
+  186  cd Downloads/
+  187  ls
+  188  cd apache-tomcat-7.0.88/
+  189  ls
+  190  cd bin
+  191  ls
+  192  sudo ./startup.sh
+  193  systemctl stop tomcat8
+  194  sudo ./startup.sh
+  195  pwd
+  196  cd Downloads
+  197  cd apache-tomcat-7.0.88/
+  198  cd bin
+  199  sudo ./startup.sh
+  200  systemctl stop tomcat
+  201  systemctl stop tomcat8
+  202  sudo ./starup.sh
+  203  sudo ./startup.sh
+  204  clear
+  205  cd
+  206  pwd
+  207  mvn archetype:generate -DgroupId=com.test -DartifactId=test -Dversion=1.0-SNAPSHOT -Dinteractvemode=false
+  208  ls
+  209  cd test
+  210  ls
+  211  mvn install
+  212  pwd
+  213  cd 
+  214  mvn install
+  215  mvn archetype:generate -DgroupId=com.test -DartifactId=test -Dversion=1.0-SNAPSHOT -Dinteractvemode=false -DarchetypeArtifctId=maven-archetype-webapp
+  216  cl
+  217  clear
+  218  which mavn
+  219  which git
+  220  cls
+  221  clear
+  222  which maven
+  223  mvn -version
+  224  mkdir Gitclass
+  225  clear
+  226  cd Gitclass/
+  227  mkdir Testproj
+  228  cd Testproj/
+  229  cd..
+  230  cd ..
+  231  ls
+  232  cd devtest/
+  233  ls
+  234  ls -al
+  235  git remote -v
+  236  ls
+  237  mvn package
+  238  mvn install
+  239  ls
+  240  ls -al
+  241  git remote -v
+  242  git remote add origin https://github.com/revathidevops092/helloworld.git
+  243  git status
+  244  git add .
+  245  git commit -m "modified commit"
+  246  git push origin master
+  247  mvn -version
+  248  which git
+  249  cd ..
+  250  ls
+  251  pwd
+  252  ls
+  253  ls -al
+  254  sudo su
+  255  cd devtest/
+  256  ls
+  257  touch test.txt
+  258  git status
+  259  git add .
+  260  git status
+  261  git commit -m "file added"
+  262  git push origin master
+  263  ls
+  264  vi test.txt
+  265  git status
+  266  git add .
+  267  git commit -m "txt file was modified"
+  268  git push origin master
+  269  history >jenjar
