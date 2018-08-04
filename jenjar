@@ -25,6 +25,8 @@
    25  sudo mkdir java
    26  ls
    27  cd /java
+   
+   ss
    28  ls
    29  cd java
    30  ls
